@@ -9,9 +9,9 @@ body {
 
 
 .center {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     height: 400px;
    
   }
@@ -26,5 +26,6 @@ html {
 
 #name {
     font-family: 'Yesteryear', cursive;
-    font-size: 200px;
+    font-size: 12rem;
+    color: white;
 }
